@@ -20,7 +20,7 @@ Why do you want your membership being public? Here at software-developer we want
 
 Most importantly: your work counts more than any CV and represents your 'business card'.
 
-# Exercise 1: create a new branch with one file
+# Exercise: create a new branch with one file
 
 What you learn:
 - track your work with a ticket (= issue) on GitHub
@@ -254,7 +254,7 @@ Have a look at all [issues](https://github.com/software-developer-org/sandbox/is
 
 ## update file, commit, and push to GitHub
   - create a new issue
-    - title: git started, file update
+    - title: git started, feature update
     - write: updating file related to #4
     - Assignees: assign this issue to yourself
     - remember issue number (e.g. 5)
