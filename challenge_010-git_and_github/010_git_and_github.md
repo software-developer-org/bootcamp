@@ -280,3 +280,12 @@ Now check your result on GitHub
  - navigate in the code and have a look at your file
    - to which commit is the message refereing?
    - click on the commit (SHA code on the right)
+
+# Next
+Go back to the [challenge folder](./) and continue with the next exercises. For each exercise you need to follow this [guideline](../challenge_020-workflow/00200_workflow.md#software-developerorg-workflow-guidelines).
+
+Most importantly guideline, rule 1: **every exercise starts with creating a new issue**.
+
+Just to point this out again: every exercise starts with creating a new issue!
+
+Every time you commit your exercise you need to put your issue number at the begnning of your commit message. Example for a commit message: '#YourIssueNumber title of exercise XYZ'.
