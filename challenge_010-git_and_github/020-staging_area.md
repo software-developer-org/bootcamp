@@ -19,7 +19,16 @@ First learn the basics of staging area as explained on the [git started repo](ht
 Then read these:
 
 - [git ready - the staging area](http://gitready.com/beginner/2009/01/18/the-staging-area.html)
-- [Pro Git - Git Basics9](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+- [Pro Git - Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
 For this you will need to create a local git repostiory using [git init](https://github.com/software-developer-org/git-started#git-init---create-local-git-repo). Don't use the sandbox or any other GitHub repo! The sandbox are designated for the challenge exercises!
 
+# Exercise: Staging
+
+- create a new issue (as noted in guideline, rule 1) with the same convention as in previous exercises:
+  - Syntax: "challenge XYZ: exercise title"
+  - Example: "challenge 020: staging"
+  - NOTE: the next excercises expect this from you without mentioning it anymore!
+- create two folders:
+  - challenge_010
+    - subfolder 020_staging
