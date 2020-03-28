@@ -4,7 +4,7 @@ Like in the previous challenge: read, learn and practice on the [git ready - com
 
 # Exercise: add, amend, remove, reset, checkout
 
-In this and all the remaining git exercise you can work directly on the sandbox. You don't need to create a local git repo for practicing beforehand.
+In this and all the remaining git exercises you can work directly on the sandbox. You don't need to create a local git repo for practicing beforehand.
 
 For the exercise follow the steps as described in the in the git ready repo. Consider:
 
@@ -17,3 +17,11 @@ For the exercise follow the steps as described in the in the git ready repo. Con
 - Demonstrate other examples.
 - Keep it short!
 
+Note:
+The instructions on git ready assumes/is based on:
+- existing commits.
+- on a main (=default) branch called 'master'.
+
+Since you are working a your new branch you have to:
+- prepare/create these commits on your own!
+- work only on your feature branch - neither on master nor on develop branch!
