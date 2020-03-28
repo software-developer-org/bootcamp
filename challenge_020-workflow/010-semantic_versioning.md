@@ -1,6 +1,6 @@
 # Workflow
 
-So far you have learned the following tools: git, bash, vi, GitHub
+So far you have learned in the previous challenge the following tools: git, bash, vi, GitHub
 
 As long as your work alone you may not need considering (but should) about **how** you work. But working in a team you **must** organize your work with others. You must define some common understanding about your team's workflow.
 
@@ -29,7 +29,8 @@ Please note: **all** exercises are done in the [sandbox repo](https://github.com
 
 # Exercise: semantic versioning
 
-- create a new issue 'workflow: semver'
+- create a new issue 'challenge-020: semantic versioning'
+- create a new branch
 - read these resources:
   - [semver.org](https://semver.org)
   - [wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
@@ -60,7 +61,3 @@ Please note: **all** exercises are done in the [sandbox repo](https://github.com
 - commit and push your work
   - don't forget using your issue number in the commit message!
 - close your issue!
-
-# Exercise: branches
-
-
