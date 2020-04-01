@@ -34,7 +34,7 @@ What you learn:
 Now you need to learn git - or prove you can use it :).
 
 - create a [new issue](https://github.com/software-developer-org/sandbox/issues) in the sandbox repo. Enter the following:
-  - Title: git started: new feature
+  - Title: challenge010: new feature
   - Comment: my first feature
   - Assignees: click on 'assign yourself'
 - **remember your issue number**! All commits you will do in the sandbox should start like '#MyIssueNumber added new file'
