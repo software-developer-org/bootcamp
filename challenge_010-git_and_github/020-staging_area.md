@@ -157,9 +157,26 @@ The steps are:
   - git stage
   - git status and explain
   - commit
+  - push to branch
+- header 'single commit'
+  - show bash command and output of your commit
   - git status and explain
-  - git push and explain
+  - show bash command for push, show output from push
   - git status and explain
+  - **remember - you modified your file after comitting and pushing!**
+  - **think about, how you can achieve, that there is still only one commit in your history after adding the changes since 'header single commit'**
+  - commit your changes
+  - push to branch
+
+Next, review your work:
+- navigate to to your branch
+- click/open folder challenge-010
+- click History in the right corner
+- review the commit history
+- **there are multiple ways to change commit history - feel free to try more than one**
+
+
+
 
 NOTE:
 Consider for the markdown file the following:
